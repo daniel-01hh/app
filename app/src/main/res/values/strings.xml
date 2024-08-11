@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Liverpool</string>
+    <string name="product_image_description">Product image</string>
+    <string name="search_hint">busqueda\n</string>
+    <string name="search_button">buscar\n</string>
+
+
+    <string-array name="sort_options">
+        <item>Predefinida</item>
+        <item>Menor precio</item>
+        <item>Mayor precio</item>
+    </string-array>
+
+</resources>
